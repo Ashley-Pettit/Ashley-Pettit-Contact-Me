@@ -1,4 +1,4 @@
-# Ashley-Pettit-Contact-Me
+#Contact-Me
 
 Hey I'm Ashley a Web Developer specialising in Ruby and JavaScript for both desktop or mobile applications. 
 
